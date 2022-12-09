@@ -2,6 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning at Coding
 - 📫 How to reach me fabbasquluzada@gmail.com
+-  I'm fond of to research, to code, build websites and web applications, learn new skills.
 
 <!---
 Abbasguluzadafatima/Abbasguluzadafatima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
