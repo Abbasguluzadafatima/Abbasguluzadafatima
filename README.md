@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abbasguluzadafatima
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning at Coding
-- 📫 How to reach me fabbasquluzada@gmail.com
+- 📫 How to reach me faabbasquluzada@gmail.com
 -  I'm fond of to research, to code, build websites and web applications, learn new skills.
 
 <!---
